@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/home"
-url: "https://rebelhack.github.io"
+baseurl: ""
+url: "https://rebelhack.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
