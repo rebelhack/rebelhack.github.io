@@ -6,7 +6,7 @@ url: "https://rebelhack.github.io/"
 theme_settings:
   # Meta
   title: Rebel Hack
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/seal.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Univiersity of Nevada, Las Vegas Rebel Hack Group" # used by search engines
@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>We are Rebel Hack</code><br>Using Technology to Improve Education</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/pexels/las-vegas.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
