@@ -3,12 +3,9 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/UNLV.jpeg"
-tags: [About, Test]
+tags: [About]
 ---
-
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
  
+We are students from the Univrsity of Nevada, Las Vegas who are passionte about learning technology and improving education. 
+
+Rebel Hack was formed in 2018 with a vision of creating a platform that promotes student interaction with both each other and the university. We look forward to the journey that lies ahead, and are ready to tackle any challenge that comes our way. 
